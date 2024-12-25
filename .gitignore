@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.csv
-data/
+charts.csv
+EN_filtered_song_lyrics-Pandas.csv
+.song_lyrics.csv.icloud
